@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zvx21kg80-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/zvx21kg80-go
